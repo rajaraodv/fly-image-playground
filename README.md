@@ -2,8 +2,8 @@
 This app allows you to play around with some of fly.io's <a href="https://fly.io/docs/apps/api/classes/fly_image.image.html" target="_blank">Image APIs</a>. This app runs on the superfast fly.io's edge servers. This is not a **node.js** app but a **fly app**. 
 
 The live app is running on fly.io's edge servers here:
-http://fly-image-playground.edgeapp.net/
-<img src="app.png" />
+https://fly-image-playground.edgeapp.net/
+<img src="app.png" border="1" />
 
 ### Before Image
 <img src="before.jpg" />
