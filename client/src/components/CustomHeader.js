@@ -17,7 +17,21 @@ export default function CustomHeader() {
         Fly Image Plaground
       </h5>
 
-      <a className="btn btn-outline-primary" href="">
+      <a
+        className="p-2 text-dark"
+        rel="noopener noreferrer"
+        href="https://fly.io/docs/apps/api/classes/fly_image.image.html"
+        target="_blank"
+      >
+        Image API
+      </a>
+
+      <a
+        className="p-2 text-dark"
+        rel="noopener noreferrer"
+        href="https://github.com/rajaraodv/fly-image-playground"
+        target="_blank"
+      >
         Github
       </a>
     </div>

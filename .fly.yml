@@ -3,8 +3,8 @@ config:
   "STATIC_FILES_BASE_FOLDER": "client/build"
 files:
   - client/build/index.html
-  - client/build/static/js/main.e299c2a2.js
-  - client/build/static/js/main.e299c2a2.js.map
+  - client/build/static/js/main.ff4d387e.js
+  - client/build/static/js/main.ff4d387e.js.map
   - client/build/static/css/main.11c6a295.css
   - client/build/static/css/main.11c6a295.css.map
   - client/build/asset-manifest.json
