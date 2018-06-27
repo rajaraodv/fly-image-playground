@@ -1,0 +1,25 @@
+{
+  "name": "fly-image-playground",
+  "version": "1.0.0",
+  "description": "This is fly.io API image playground.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajaraodv/fly-image-playground.git"
+  },
+  "keywords": [
+    "fly.io"
+  ],
+  "author": "Raja Rao DV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajaraodv/fly-image-playground/issues"
+  },
+  "homepage": "https://github.com/rajaraodv/fly-image-playground#readme",
+  "dependencies": {
+    "mime-types": "^2.1.18"
+  }
+}

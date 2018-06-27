@@ -1,4 +1,6 @@
 app: fly-image-playground
+config:
+  "STATIC_FILES_BASE_FOLDER": "client/build"
 files:
   - client/build/index.html
   - client/build/static/js/main.e299c2a2.js
