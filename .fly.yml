@@ -1,0 +1,11 @@
+app: fly-image-playground
+files:
+  - client/build/index.html
+  - client/build/static/js/main.e299c2a2.js
+  - client/build/static/js/main.e299c2a2.js.map
+  - client/build/static/css/main.11c6a295.css
+  - client/build/static/css/main.11c6a295.css.map
+  - client/build/asset-manifest.json
+  - client/build/favicon.ico
+  - client/build/manifest.json
+  - client/build/service-worker.js
