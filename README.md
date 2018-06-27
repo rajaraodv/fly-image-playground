@@ -3,10 +3,10 @@ This app allows you to play around with some of fly.io's <a href="https://fly.io
 
 The live app is running on fly.io's edge servers here:
 https://fly-image-playground.edgeapp.net/
-<img src="app.png" border="1" />
-
+<img src="appPic.png"  />
+   
 ### Before Image
-<img src="before.jpg" />
+<img src="before.jpg" /> 
 
 ### After Image
 <img src="after.jpeg" />
